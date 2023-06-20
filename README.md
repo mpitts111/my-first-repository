@@ -11,3 +11,4 @@
 | Command | Explanation   |
 |--       |--           |
 | ls      | list files and directories |
+| mv      | move file or directory |
